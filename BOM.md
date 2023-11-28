@@ -10,7 +10,7 @@
 |         5|    Tube Holder                       |Houder voor waterslang (0,20mm SUPERDRAFT)          |Ge-3D-print, Ender-3 V2 |0.08          |1     |4.08     |
 |        13|    Breadboard                        |Breadboard 400mm                                    |nieuw                   |1.02          |1     |2.04     |
 |        14|    1N4004                            |Diode                                               |recup                   |x             |1     |x        |
-|        15|    BC547C                            |Transistor                                          |recup                   |x             |x     |x        |  
+|        15|    BC547C                            |Transistor                                          |recup                   |x             |1     |x        |  
 |        16|    ESP-32 WROOM                      |Microcontroller                                     |nieuw                   |x             |1     |7.60     |
 |        17|    330 Ohm                           |Resistor                                            |recup                   |x             |1     |x        |
 |        18|    DIN 912                           |M4x16                                               |recup                   |x             |2     |x        |
